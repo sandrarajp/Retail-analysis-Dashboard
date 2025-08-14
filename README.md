@@ -1,4 +1,4 @@
-# Retail-analysis-Dashboard
+
 # 📊 Retail Performance Analysis Dashboard
 ![WhatsApp Image 2025-08-14 at 16 00 51_2e1b8932](https://github.com/user-attachments/assets/08236a9c-4a8d-480f-a678-ea28c6cee4e8)
   
